@@ -6,7 +6,7 @@ To develop a convolutional deep neural network (CNN) for image classification an
 ##   PROBLEM STATEMENT AND DATASET
 
 #### Problem Statement 
-he problem is to design and develop a Convolutional Deep Neural Network (CNN) that can automatically classify grayscale images into predefined categories. The model must learn important spatial features such as edges, textures, and shapes from image data and accurately predict the correct class label.
+The problem is to design and develop a Convolutional Deep Neural Network (CNN) that can automatically classify grayscale images into predefined categories. The model must learn important spatial features such as edges, textures, and shapes from image data and accurately predict the correct class label.
 
 #### Dataset
 
